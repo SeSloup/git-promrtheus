@@ -1,6 +1,6 @@
 
 
-# Домашнее задание к занятию "`Название занятия`" - `Фамилия и имя студента`
+# Домашнее задание к занятию "`Система мониторинга Prometheus`" - `Сологуб Е.Ю.`
 
 [Задания](https://github.com/netology-code/smon-homeworks/blob/main/hw-04.md)
 
@@ -13,7 +13,7 @@
 ### Задание 1
 
 
-![Название скриншота 1](ссылка на скриншот 1)`
+![Prometheus](https://github.com/SeSloup/git-promrtheus/blob/main/screenshots/01.png)
 
 
 ---
@@ -21,7 +21,7 @@
 ### Задание 2
 
 
-![Название скриншота 2](ссылка на скриншот 2)`
+![Node Exporter](https://github.com/SeSloup/git-promrtheus/blob/main/screenshots/02.png)
 
 
 ---
@@ -29,7 +29,9 @@
 ### Задание 3
 
 
-![Название скриншота](ссылка на скриншот)`
+![Node Exporter к серверу Prometheus](https://github.com/SeSloup/git-promrtheus/blob/main/screenshots/031.png)
+
+![Grafana и интегрировать с Prometheus](https://github.com/SeSloup/git-promrtheus/blob/main/screenshots/032.png)
 
 -----------
 
